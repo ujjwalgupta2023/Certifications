@@ -23,3 +23,5 @@ This repository serves as a collection of the certificates I have earned through
 * **Issued by:** McKinsey & Company.
 * **Date Completed:** [ April, 2025 - June, 2025]
 * **Core Skills:** `Structured Problem-Solving`, `Adaptability & Resilience`, `Communication With Impact`, ` Stakeholder Communication `, `Digital Transformation`, `Agile Methodologies`
+
+---
